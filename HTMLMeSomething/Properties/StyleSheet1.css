@@ -1,0 +1,22 @@
+﻿title{
+    font-size:x-large;
+    color:olive;
+    background-color:#dbd3cf;
+  
+}
+h1 { 
+    font:italic;
+    background-color:#9d875f
+}
+body {
+    background-color:#bcad91;
+    margin:auto;
+}
+main{
+    background-color:#6a5c40;
+}
+*{
+    margin:auto;
+    border-style:groove;
+    font-variant-ligatures:additional-ligatures;
+}
